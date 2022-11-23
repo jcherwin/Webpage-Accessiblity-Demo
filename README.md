@@ -10,7 +10,7 @@ One of the key lessons learned here was the practice of building a webpage in hu
 
 ## Link
 
-A link to the project hosted on GitHub Pages can be found at the following link: [https://choosealicense.com/](https://choosealicense.com/)
+A link to the project hosted on GitHub Pages can be found at the following link: [https://jcherwin.github.io/bootcamp-challenge-1/](https://jcherwin.github.io/bootcamp-challenge-1/)
 
 ## Usage
 
